@@ -1,2 +1,9 @@
 # Clothes-Options
-A Cdda mod for adding extra options on clothes
+A CDDA mod for adding extra features on clothing.
+
+## Planned Features
+
+### Wrapped Clothing
+| Clothing | Status |
+| -------- | ------ |
+| Scarf | :heavy_check_mark: |
